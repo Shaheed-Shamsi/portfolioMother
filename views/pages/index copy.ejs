@@ -1,0 +1,205 @@
+<% include ../partials/head %>
+<% include ../partials/header %>  
+<div
+class='bg-img'
+style='background-image:url("img/bg/bg1.jpg")'>
+  <div class='bg-center-container'>
+    <h1 class='bg-heading'>
+      Decoding the cellular responses to genotoxic stress that drive aging
+    </h1>
+  </div>
+</div>
+<div class='grid-x grid-padding-x grid-container grid-padding-y add-padd'  data-equalizer>
+  <div class='medium-6 large-7 cell out-vc'  data-equalizer-watch>
+    <div class='in-vc'>
+      <h4><em>“To be a writer of children’s books has been my dream for many years. It quite takes my breath away when I imagine myself daring to join the realms of those esteemed heroes, whose words have nourished my soul? I am compelled to write. Writing ignites my soul and makes me feel alive.”</em></h4>
+      <p class='web-pro-text'>
+        The Gurkar lab is interested in defining the molecular mechanisms that drive aging in response to endogenous DNA damage, which accumulates in all of us over time. The majority of individuals over the age of 65 years suffer from at least two chronic degenerative diseases- neurodegeneration, cardiovascular disease, diabetes, cancer etc. These chronic diseases of the elderly consume an increasingly large fraction of our health care costs and rob individuals of their independence and quality of life.
+      </p>
+    </div>
+  </div>
+  <div class='medium-6 large-5 cell out-vc'  data-equalizer-watch>
+    <div class='in-vc'>
+      <div class="responsive-embed widescreen">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/9eOofp64IYI?autoplay=0&showinfo=0&controls=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      </div>
+    </div>
+  </div>
+</div>
+<div
+class='bg-img'
+id='home'
+style='background-image:url("img/bg/bg2.jpg")'>
+  <div class='bg-center-container'>
+    <h1 class='bg-heading'>
+      About Shirin Shamsi
+    </h1>
+  </div>
+</div>
+<div class='grid-x grid-padding-x grid-container grid-padding-y add-padd'  data-equalizer>
+  <div class='shrink large-offset-1 cell out-vc'  data-equalizer-watch>
+    <div class='in-vc'>
+      <img src='img/profile-pic/aditi.jpg'>
+    </div>
+  </div>
+  <div class='medium-6 large-6 cell out-vc'  data-equalizer-watch>
+    <div class='in-vc'>
+      <p class='web-pro-text'>
+        Aditi U. Gurkar is an Assistant Professor in the Aging Institute, Division of Geriatric Medicine at the University of Pittsburgh. I believe that aging is one true mystery that surrounds us. Aging is inescapable and unfortunately the principal risk factor for a number of diseases including cancer, heart disease and Alzheimer disease (AD). If we can therefore unlock this mystery at a molecular level, we could uncover the Fountain of Youth and live healthier, fuller lives.
+      </p>
+      <a class="hollow button" href="./Aditi-Gurkar">Learn More About Aditi Gurkar </a>
+    </div>
+  </div>
+</div>
+<div
+class='bg-img'
+id='research'
+style='background-image:url("img/bg/bg3.jpg")'>
+  <div class='bg-center-container'>
+    <h1 class='bg-heading'>
+      Research Interests
+    </h1>
+  </div>
+</div>
+<div class='grid-x medium-up-3 grid-padding-x grid-container grid-padding-y add-padd'  data-equalizer>
+  <% for (let i = 0; i < 3; i++) { %>
+    <div class='cell'>
+      <div class='my-card'>
+        <div 
+          class='card-img'
+          style='background-image: url("<%=results.researchIntrest[i].image %>");'
+        ></div>
+        <h4><%=results.researchIntrest[i].title %></h4>
+        <p>
+          <%=results.researchIntrest[i].description %>
+        </p>
+        <button class="hollow button" href="#">Read More</button>
+      </div>
+    </div>
+  <% } %>
+</div>
+
+<div
+class='bg-img'
+id='publications'
+style='background-image:url("img/bg/bg4.jpg")'>
+  <div class='bg-center-container'>
+    <h1 class='bg-heading'>
+      Publications
+    </h1>
+  </div>
+</div>
+<div class='grid-x grid-padding-x grid-container grid-padding-y add-padd'  data-equalizer>
+  <div class='cell'>
+    <h3>Recent Publications</h3>
+  </div>
+  <div class='grid-x medium-up-3'>
+    <% for (let i = 0; i < 3; i++) { %>
+      <div class='cell'>
+        <div class='my-card'>
+          <h4 class='publication-heading'>
+            <%=results.publications[i].title %>
+          </h4>
+          <h6 class='publication-author'><%=results.publications[i].author %></h6>
+          <p class='publiction-journel'><%=results.publications[i].journal %></p>
+        </div>
+      </div>
+    <% } %>
+  </div>
+  <div class='cell'>
+    <a class="hollow button" href="./Publications">View All Publications </a>
+  </div>
+</div>
+
+<div
+class='bg-img'
+id='team'
+style='background-image:url("img/bg/bg4.jpg")'>
+  <div class='bg-center-container'>
+    <h1 class='bg-heading'>
+      The Team
+    </h1>
+  </div>
+</div>
+<div class='grid-x grid-padding-x grid-container grid-padding-y add-padd' >
+  <div class='cell medium-8 medium-offset-2'>
+    <% for (let i = 0; i < results.team.length; i++) { %>
+      <div class='grid-x grid-padding-x grid-margin-y team-card' data-equalizer>
+        <div class='cell shrink out-vc border-right'>
+          <div class='in-vc'>
+            <img class='team-img' src='<%=results.team[i].image %>'>
+          </div>
+        </div>
+        <div class='cell auto out-vc'>
+          <div class='in-vc'>
+            <h5><%=results.team[i].name %> <%=results.team[i].title ? ` | ${results.team[i].title}` : `` %></h5>
+            <p><%=results.team[i].Description %></p>
+          </div>
+        </div>
+      </div>
+    <% } %>
+  </div>
+</div>
+
+<div
+class='bg-img'
+id='news'
+style='background-image:url("img/bg/bg1.jpg")'>
+  <div class='bg-center-container'>
+    <h1 class='bg-heading'>
+      Lab News
+    </h1>
+  </div>
+</div>
+
+<div class='grid-x grid-padding-x grid-container medium-up-3 grid-padding-y add-padd' >
+    <% for (let i = 0; i < 3; i++) { %>
+      <div class='cell'>
+        <div class='my-card'>
+          <div 
+            class='card-img'
+            style='background-image: url("<%=results.news[i].image %>");'
+          ></div>
+          <h4><%=results.news[i].name %></h4>
+          <p class="news-text">
+            <%=results.news[i].description %>
+          </p>
+          <button class="hollow button" href="#">Read More</button>
+        </div>
+      </div>
+    <% } %>
+</div>
+
+<div
+class='bg-img'
+id='contact'
+style='background-image:url("img/bg/bg2.jpg")'>
+  <div class='bg-center-container'>
+    <h1 class='bg-heading'>
+      Contact Us
+    </h1>
+  </div>
+</div>
+
+<div class='grid-x grid-padding-x grid-container medium-up-2 grid-padding-y add-padd' data-equalizer>
+  <div class='cell out-vc' data-equalizer-watch>
+    <div class='in-vc'>
+      <h5>Phone: <a href="tel:+1(412) 624-7494">(412) 624-7494</a><br/>
+        Email: <a href="mailto:agurkar1@pitt.edu">agurkar1@pitt.edu</a></h5>
+      <h5>Administrative Assistant: Beth Thomas</h5>
+      <h5>Phone: <a href="tel:+1(412) 864-2507">(412) 864-2507</a><br/>
+        E-mail: <a href="mailto:agurkar1@pitt.edu">eat8@pitt.edu</a></h5>
+    </div>
+  </div>
+  <div class='cell out-vc' data-equalizer-watch>
+    <div class='in-vc'>
+      <div class="responsive-embed widescreen">
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3037.052495234886!2d-79.96121548470397!3d40.429836479363495!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8834f19ca4e5cdfd%3A0x9b228e7fd9da8772!2sGurkar+Lab!5e0!3m2!1sen!2sus!4v1507475234222" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+      </div>
+    </div>
+  </div>
+</div>
+
+<% include ../partials/footer %>
+<% include ../partials/tail %>
+  

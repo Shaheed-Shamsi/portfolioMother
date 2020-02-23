@@ -3,7 +3,7 @@
         {
             "title": "Nucleo Mitochondrial Communicome",
             "image": "img/research/heart.jpg",
-            "description": "The central hypothesis that guides our research is that stochastic, endogenous nuclear DNA damage alters cellular and metabolic programs, leading to progression of multiple, age- related degenerative diseases."
+            "description": "Here is my secret. It is very simple. It is only with the heart that one can see rightly; what is essential is invisible to the eye."
         },
         {
             "title": "DNA damage and Heart disease",
@@ -14,6 +14,14 @@
             "title": "Genotoxic stress response in post-mitotic cells",
             "image": "img/research/post_mitotic.jpg",
             "description": "Replicative cells respond to DNA damage with cell fate decisions such as cell cycle arrest, cellular senescence or apoptosis."
+        }
+    ],
+    "books": [
+        {
+            "title": "Laila and the Sands of Time",
+            "link": "https://www.amazon.com/Laila-Sands-Time-Shirin-Shamsi/dp/194610177X",
+            "image": "./img/books/book01.jpg",
+            "description": "Thirteen-year-old Laila, still grieving over her father's death, goes on their planned pilgrimage with her aunt and uncle. When she is transported back in time to 7th century Arabia, she faces the dangers of the desert, takes on a disguise, and saves a baby's life. But will she ever return to her own time?"
         }
     ],
     "publications": [
