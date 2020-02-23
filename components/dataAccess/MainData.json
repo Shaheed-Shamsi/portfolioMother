@@ -1,0 +1,171 @@
+{
+    "researchIntrest": [
+        {
+            "title": "Nucleo Mitochondrial Communicome",
+            "image": "img/research/heart.jpg",
+            "description": "The central hypothesis that guides our research is that stochastic, endogenous nuclear DNA damage alters cellular and metabolic programs, leading to progression of multiple, age- related degenerative diseases."
+        },
+        {
+            "title": "DNA damage and Heart disease",
+            "image": "img/research/nucleo_mitochondrial_communicome-aditi_gurkar.jpg",
+            "description": "Problems with DNA repair pathways have been observed in cardiac failure patients. Additionally, recent data suggests that pediatric patients treated with genotoxic agents, develop disabling or life-threatening age- related diseases compared to their siblings."
+        },
+        {
+            "title": "Genotoxic stress response in post-mitotic cells",
+            "image": "img/research/post_mitotic.jpg",
+            "description": "Replicative cells respond to DNA damage with cell fate decisions such as cell cycle arrest, cellular senescence or apoptosis."
+        }
+    ],
+    "publications": [
+        {
+            "title": "Exonic variants in aging-related genes are predictive of phenotypic aging status.",
+            "author": "Breitbach ME, Greenspan­ S, Resnick NM, Perera S, Gurkar AU, Absher D*, Levine AS*.",
+            "journal": "Frontiers in Genetics (in press, 2019)."
+        },
+        {
+            "title": "Tissue specificity of senescent cell accumulation during physiological and accelerated aging of mice.",
+            "author": "Yousefzadeh MJ*, Zhao J*, Bukata C, Wade EA, McGowan SJ, Angelini L, Bank MP, Gurkar AU, McGuckian CA, Calubag M, Kato JI, Burd CE, Robbins PD and Niedernhofer LJ.",
+            "journal": "Aging Cell (accepted, 2019)."
+        },
+        {
+            "title": "Cellular Senescence: The Trojan Horse in Chronic Lung Diseases.",
+            "author": "Hamsanathan S, Alder JK, Sellares J, Rojas M, Gurkar AU, Mora AL.",
+            "journal": "Am J Respir Cell Mol Biol."
+        },
+        {
+            "title": "ERCC1-deficient cells and mice are hypersensitive to lipid peroxidation.",
+            "author": "Czerwińska J, Nowak M, Wojtczak P, Dziuban-Lech D, Cieśla JM, Kołata D, Gajewska B, Barańczyk-Kuźma A, Robinson AR, Shane HL, Gregg SQ, Rigatti LH, Yousefzadeh MJ, Gurkar AU., McGowan SJ, Kosicki K, Bednarek M, Zarakowska E, Gackowski D, Oliński R, Speina E, Niedernhofer LJ, Tudek B.",
+            "journal": "Free Radical Biol Med."
+        },
+        {
+            "title": "Dysregulation of DAF-16/FOXO3-mediated stress responses accelerates oxidative DNA damage induced aging.",
+            "author": "Gurkar AU., Robinson A.R., Cui Y., Li X., Allani S.K., Webster A., Muravia M., Fallahi M., Weissbach H., Robbins P.D., Wang Y., Kelley E.E., St. Croix C.M., Niedernhofer L.J. and Gill M.S.",
+            "journal": "Redox Biol."
+        },
+        {
+            "title": "Methods to quantify the NF-κB pathway during senescence.",
+            "author": "Zhang L., Zhao J., Gurkar AU., Niedernhofer LJ., and Robbins PD.",
+            "journal": "Cell Senescence - Methods in Molecular Biology."
+        },
+        {
+            "title": "Spontaneous DNA damage to the nuclear genome promotes senescence and aging.",
+            "author": "Robinson A.R., Yousefzadeh M.J., Rozgaja T.A., Wang J., Li X. , Tilstra J.S., Feldman C. H., Gregg S. Q., Johnson C.H., Skoda E.M., Frantz M-C., Bell-Temin H., Pope-Varsalona H., Gurkar AU., Nasto L.A., Robinson R.A., Fuhrmann-Stroissnigg H., Czerwinska J., McGowan S.J., Cantu-Medellin N., Harris J.B., Maniar S., Ross M.A., Trussoni C.E., LaRusso N.F., Cifuentes-Pagano E., Pagano P.J., Tudek B., Vo N., Rigatti L.H., Opresko P.L., Stolz D.B., Watkins S.C., Burd C.E., St. Croix C.M., Siuzdak G., Yates N.A., Robbins P.D., Wang Y., Wipf P., Kelley E.E.† and Niedernhofer L.J.†",
+            "journal": "Redox Biol."
+        },
+        {
+            "title": "Nuclear instability and aging.",
+            "author": "Niedernhofer L.J., Gurkar AU., Wang Y., Vijg J., Hoeijmakers J. and Robbins P.D.",
+            "journal": "Redox Biol."
+        },
+        {
+            "title": "Synergistic treatment of TS.",
+            "author": "Gurkar AU.* and Finkel T. (*corresponding author)",
+            "journal": "Oncotarget News."
+        },
+        {
+            "title": "Quantitative Analysis of Cellular Senescence in Culture and In Vivo.",
+            "author": "Zhao J, Fuhrmann-Stroissnigg H, Gurkar AU., Flores RR, Dorronsoro A, Stolz DB, St Croix CM, Niedernhofer LJ, Robbins PD.",
+            "journal": "Curr Protoc Cytom."
+        },
+        {
+            "title": "The role of DNA damage in longevity-lessons from the nematode.",
+            "author": "Gurkar, AU.* Gill M.S. and Niedernhofer L.J. (*corresponding author)",
+            "journal": "Book: C. elegans and its contribution to longevity and ageing research M. S. Gill and A. Olsen ed (Springer) *corresponding author"
+        },
+        {
+            "title": "Comparison of mice with accelerated aging caused by distinct mechanisms.",
+            "author": "Gurkar AU. and Niedernhofer LJ.",
+            "journal": "Exp Gerontol."
+        },
+        {
+            "title": "Small-Molecule Reactivation of Mutant p53 to Wild-Type- like p53 through the p53-Hsp40 Regulatory Axis.",
+            "author": "Hiraki M, Hwang SY, Cao S, Ramadhar TR, Byun S, Yoon KW, Lee JH, Chu K, Gurkar AU, Kolev V, Zhang J, Namba T, Murphy ME, Newman DJ, Mandinova A, Clardy J, Lee SW.",
+            "journal": "Chem Biol."
+        },
+        {
+            "title": "The Achilles' heel of senescent cells: from transcriptome to senolytic drugs.",
+            "author": "Zhu Y, Tchkonia T, Pirtskhalava T, Gower AC, Ding H, Giorgadze N, Palmer AK, Ikeno Y, Hubbard GB, Lenburg M, O'Hara SP, LaRusso NF, Miller JD, Roos CM, Verzosa GC, LeBrasseur NK, Wren JD, Farr JN, Khosla S, Stout MB, McGowan SJ, Fuhrmann-Stroissnigg H, Gurkar AU, Zhao J, Colangelo D, Dorronsoro A, Ling YY, Barghouthy AS, Navarro DC, Sano T, Robbins PD, Niedernhofer LJ, Kirkland JL.",
+            "journal": "Aging Cell."
+        },
+        {
+            "title": "Identification of ROCK1 kinase as a critical regulator of Beclin1-mediated autophagy during metabolic stress.",
+            "author": "Gurkar AU, Chu K, Raj L, Bouley R, Lee SH, Kim YB, Dunn SE, Mandinova A, Lee SW.",
+            "journal": "Nat Commun."
+        },
+        {
+            "title": "DNA repair and Cancer. Madhusudan S, Wilson III DM, editors. Boca Raton, FL: CRC Press; Chapter 12, p53 in DNA Damage, Repair and Cancer Therapeutics;",
+            "author": "Gurkar AU, Chu K, Lee SW.",
+            "journal": "p.372-426. 679p."
+        },
+        {
+            "title": "c-Jun N-terminal kinase-mediated Rad18 phosphorylation facilitates Polη recruitment to stalled replication forks.",
+            "author": "Barkley LR, Palle K, Durando M, Day TA, Gurkar A, Kakusho N, Li J, Masai H, Vaziri C.",
+            "journal": "Biol Cell."
+        },
+        {
+            "title": "Selective killing of cancer cells by a small molecule targeting the stress response to ROS.",
+            "author": "Raj L, Ide T, Gurkar AU, Foley M, Schenone M, Li X, Tolliday NJ, Golub TR, Carr SA, Shamji AF, Stern AM, Mandinova A, Schreiber SL, Lee SW.",
+            "journal": "Nature."
+        },
+        {
+            "title": "Rad18-mediated translesion synthesis of bulky DNA adducts is coupled to activation of the Fanconi anemia DNA repair pathway.",
+            "author": "Song IY, Palle K, Gurkar A, Tateishi S, Kupfer GM, Vaziri C.",
+            "journal": "J Biol Chem."
+        },
+        {
+            "title": "Interstrain transfer of the large pathogenicity island (PAPI-1) of Pseudomonas aeruginosa.",
+            "author": "Qiu X, Gurkar AU, Lory S.",
+            "journal": "Proc Natl Acad Sci U S A."
+        }
+    ],
+    "team": [
+        {
+            "name": "Aditi Gurkar",
+            "title": "Principal Investigator",
+            "image": "/img/profile-pic/aditi.jpg",
+            "Description": "Aditi U. Gurkar is an Assistant Professor in the Aging Institute, Division of Geriatric Medicine at the University of Pittsburgh. I believe that aging is one true mystery that surrounds us. Aging is inescapable and unfortunately the principal risk factor for a number of diseases including cancer, heart disease and Alzheimer disease (AD)."
+        },
+        {
+            "name": "Shruthi Hamsanathan",
+            "title": "Research Scientist",
+            "image": "/img/profile-pic/Shruthi_H.jpg",
+            "Description": "My research interest has always been towards understanding complex biological mechanisms. I am particularly fascinated by transport mechanisms occurring at biological membranes. I find this as an interesting challenge for a cell, as it should maintain the membrane integrity while it transports proteins or other biomolecules across the membrane for survival."
+        },
+        {
+            "name": "Lucile Marchal",
+            "title": "",
+            "image": "/img/profile-pic/Lucile.jpg",
+            "Description": "I have always been interested in biology and had the chance to study biochemistry, cellular biology and physiology at the University of Besançon (France) during my B.S. equivalent. I then joined the bioengineering program of the Polytech'Nice Engineering School of the University of Nice (France), where I learned more about biotechnologies and pharmacology."
+        },
+        {
+            "name": "Mohamad Nayal",
+            "title": "",
+            "image": "/img/profile-pic/mo.jpg",
+            "Description": "My name Mo Nayal and I am excited to be joining Dr. Aditi Gurkar's lab at the Aging Institute! I'm originally from New Jersey but have lived in Philadelphia for the past 7 years where I attended Drexel University and worked at the University Pennsylvania's Gene Therapy Program."
+        },
+        {
+            "name": "Austin Sims",
+            "title": "",
+            "image": "/img/profile-pic/austin.jpg",
+            "Description": "My name Mo Nayal and I am excited to be joining Dr. Aditi Gurkar's lab at the Aging Institute! I'm originally from New Jersey but have lived in Philadelphia for the past 7 years where I attended Drexel University and worked at the University Pennsylvania's Gene Therapy Program."
+        }
+    ],
+    "news": [
+        {
+            "name": "TEDxPittsburgh",
+            "image": "/img/news/tedxPitt2019.jpg",
+            "description": "Our own Aditi Gurkar will be one of the featured speakers at TEDxPittsburgh! “How old are you? No, Really.” She'll be introducing the difference between biological and chronological age, and then discussing the pursuit of a biological clock that might facilitate a personalized intervention to slow the process."
+        },
+        {
+            "name": "Happy Holidays with axe throwing, 2019!",
+            "image": "/img/news/axeThrowing201901.jpg",
+            "description": ""
+        },
+        {
+            "name": "Testimonial from our summer Undergrad from Oxford University, Roshan K.",
+            "image": "/img/news/Roshan.jpg",
+            "description": "Over 8 weeks this summer, I worked on an independent research project in the Gurkar Lab at the Aging Institute. This was my first experience of research, and so having Dr Gurkar as my supervisor made all the difference in the world. She led me through the stages of planning out my project, data collection, and even data analysis, and the skills and knowledge which I gained from my time at the lab have been absolutely invaluable back at university in Oxford. Dr Gurkar and the whole team at the Gurkar lab are all lovely people and were very enthusiastic in welcoming me to Pittsburgh and to their lab. They were all very happy to help me with the details of my lab work and the different assays which I carried out, and I am really happy that I had the chance to know everyone there over my summer! Working at the Aging Institute, I had the opportunity to listen to fascinating talks from experts in the field of aging, on subjects such as novel senolytic drugs and telomere biology. However, my most memorable experiences of the summer included the time our lab spent together, including our lab picnic in Oakland at the end of summer, weekly lab meetings and journal club (always sure to feature a sweet treat!), and the lab potluck we had right before I left. I would thoroughly recommend the Gurkar lab to any students who would like to gain research experience in a fun and welcoming environment." 
+        }
+    ]
+
+}
